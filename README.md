@@ -4,7 +4,10 @@
 
 **News**: 
 
-- __Dec 8, 2023__: Code for Cooperative Attack Algorithm is available now!
+- __July 1, 2024__: The paper has finally been published !!
+- [Paper](https://link.springer.com/chapter/10.1007/978-981-97-3340-8_42)
+  
+- __Dec 8, 2023__: Code for Cooperative Attack Algorithm is available now !
 
 - __Sep 25, 2023__: 'Cooperative Attack Algorithm for UAV Swarm System under Spatiotemporal Constraints' has been included in [CCSICC](http://ccsicc.c2.org.cn/), but this paper has not been published yet.
 
